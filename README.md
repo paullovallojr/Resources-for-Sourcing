@@ -1,11 +1,19 @@
 # Resources-for-Sourcing
+
 tools for sourcing
+
 ADME.md
+
 Chrome Extensions:
+
 #Clicky for Slack | A Chrome Extension designed to make sharing a link to Slack as quick and easy as possible.
+
 1Password extension (desktop app required) | Extends the 1Password app on your Mac or Windows PC, so you can fill and save passwords in your browser.
+
 360 Internet Protection | 360 Internet Protection
+
 Accompany for Gmail | Rich profiles on all your contacts right inside Gmail.
+
 Acronym Finder | Quickly find acronyms from acronymfinder.com
 Adblock Plus - free ad blocker | Block YouTube™ ads, pop-ups & fight malware!
 AdBlock — best ad blocker | Block ads and pop-ups on YouTube, Facebook, Twitch, and your favorite websites.
